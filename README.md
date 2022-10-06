@@ -5,13 +5,13 @@ Desarrollar una solución que permita ingresar y almacenar las calificaciones fi
 
 
 Etapa 2. especificaciones 
-entrada:
+1-entrada:
 -estudiantes:nombre, apellidos, grupo, carrera 
 -Asignaturas: calificaciones, nombre de la asignatura  
-proceso:
+2-proceso:
   -calcular el rpomedio de las calificaciones finales 
   -promedio = sumaDeCalificaciones / TotalDeCalificaciones 
-  salida: 
+  3-salida: 
   -Resumen de los estudiantes con su proceso 
   
   
@@ -27,3 +27,5 @@ proceso:
     CALCULO DIFERENCIAL:             7.9 
     
     ETICA:                          7.3
+    
+    ## Etapa 3. diseño de la solucion 
