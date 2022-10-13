@@ -28,5 +28,6 @@ Etapa 2. especificaciones
     
     ETICA:                          7.3
     
-    ## Etapa 3. diseño de la solucion ![](https://github.com/lorenzoosvixd/T3A1---Ejercicio-01Tarea)
+    ## Etapa 3. diseño de la solucion 
+    }[](https://github.com/lorenzoosvixd/T3A1---Ejercicio-01Tarea)
     
